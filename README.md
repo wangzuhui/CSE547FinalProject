@@ -33,7 +33,7 @@ Some simple modifications probabaly are needed (such as changing paths) before g
 Also, to generate the density maps, you need to use your own saved models. However, I also provide the saved models I generated during the experiments. Here is the link: [Saved Models](https://drive.google.com/drive/folders/1SESnPh4XmXjnowlqZXgTo3zlo98WwlIG?usp=sharing). 
 
 # Samples of generated density maps
-Several generated density maps of the ShanghaiTech Part_A dataset have been uploaded to the folder *Generated_Maps*.
+Several generated density maps of the ShanghaiTech Part_A dataset have been uploaded under the folder *Generated_Maps*.
 
 # Contact information
 If you have any question, please contact me by email (zuhui.wang@stonybrook.edu).

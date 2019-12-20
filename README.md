@@ -5,7 +5,7 @@ This is the repository for the final project of CSE547. In this project, I did s
 In this project, three different models are tested on the ShanghaiTech datasets. The datasets can be downloaded from here: [Google Drive](https://drive.google.com/file/d/16dhJn7k4FWVwByRsQAEpl9lwjuV03jVI/view).
 
 # Platform to run the codes
-1. Before running the codes, please make sure you have install the Pytorch deep learning framework. For more details, please check here: [PyTorch](https://pytorch.org/). 
+1. Before running the codes, please make sure you have installed the Pytorch deep learning framework. For more details, please check here: [PyTorch](https://pytorch.org/). 
 2. I trained and tested my codes under Linux 18.04 with a Nvidia Tesla GPU v100. 
 3. Before running the codes, you need to generate your own *.json* files.
 For example, if you entering the *CSRNet* folder, please open and edit the file *part_A_train_with_val_240.json*. You need to change the file path to your own.

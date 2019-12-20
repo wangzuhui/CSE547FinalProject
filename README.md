@@ -30,7 +30,7 @@ Suppose you are located in the folder of CSRNet, to test the model, please type 
 $ python testMaeMse.py
 ```
 Some simple modifications probabaly are needed (such as changing paths) before generating the density maps. 
-Also, to generate the density maps, you need to use your own saved models. However, I also provide the saved models I generated during experiments. Here is the link: [Saved Models](https://drive.google.com/drive/folders/1SESnPh4XmXjnowlqZXgTo3zlo98WwlIG?usp=sharing). 
+Also, to generate the density maps, you need to use your own saved models. However, I also provide the saved models I generated during the experiments. Here is the link: [Saved Models](https://drive.google.com/drive/folders/1SESnPh4XmXjnowlqZXgTo3zlo98WwlIG?usp=sharing). 
 
 # Samples of generated density maps
 Several generated density maps of the ShanghaiTech Part_A dataset have been uploaded to the folder *Generated_Maps*.
